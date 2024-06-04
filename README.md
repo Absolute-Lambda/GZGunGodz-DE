@@ -2,8 +2,9 @@
 GZGunGodz is a GZDoom Engine port of Vlambeer's Gun Godz (https://store.steampowered.com/app/522940/GUN_GODZ/)
 
 # What Is this mod!?
-Imagine one day you wanted to play Gun Godz but you've played it too much, This mod aims to replicate the game into the Doom Engine
-Using GZDoom tech. Meaning much more customizability, and a easier access to the game as a whole.
+The age old problem of game engines having weird quirks. This is a mod that aims to replicate the original game
+as well as possible in the Doom engine, utilizing GZDoom. This allows for better access to the game as a whole
+and avoiding any potential issues playing the original or steam release.
 
 # Credits
 Vlambeer - Original Game
